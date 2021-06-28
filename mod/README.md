@@ -12,7 +12,7 @@ Same as the main mod.
 
 ### Dependencies
 
-In order for this mod to fully function, you [b]must[/b] install and use [Gender Nonbinary Leaders](https://steamcommunity.com/sharedfiles/filedetails/?id=2528614880).
+In order for this mod to fully function, you **must** install and use [Gender Nonbinary Leaders](https://steamcommunity.com/sharedfiles/filedetails/?id=2528614880).
 
 ## Changelog
 
