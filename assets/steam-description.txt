@@ -1,0 +1,25 @@
+[h1]Overview[/h1]
+
+This is a submod for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2528614880]Gender Nonbinary Leaders[/url] that activates for every species the chance for leaders to reconsider their gender identity.
+
+[h1]Changes[/h1]
+
+Overwrites one trigger from the main mod, which results in leaders of every species potentially reconsidering their gender identity upon spawning.
+
+[h2]Compatibility[/h2]
+
+Same as the main mod.
+
+[h3]Dependencies[/h3]
+
+In order for this mod to fully function, you [b]must[/b] install and use [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2528614880]Gender Nonbinary Leaders[/url].
+
+[h2]Changelog[/h2]
+
+[list]
+[*]1.0.0 Initial version
+[/list]
+
+[h2]Source Code[/h2]
+
+Hosted on [url=https://github.com/corsairmarks/nonbinary_leaders_all_species]GitHub[/url]
