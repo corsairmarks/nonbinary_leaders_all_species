@@ -24,7 +24,7 @@ Because this mod overrides an effect from the main mod, expect to see one line i
 
 ## Changelog
 
-* 1.0.0 Initial version
+* 1.0.0-alpha1 1.0.0-alpha1 Alpha version: non-gendered species do consider changing their gender identity, but the game does not allow giving their leaders a gender even through `create_saved_leader`
 
 ## Source Code
 
