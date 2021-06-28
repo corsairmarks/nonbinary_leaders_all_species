@@ -1,0 +1,3 @@
+should_roll_to_reconsider_gender_identity = {
+	always = yes
+}
