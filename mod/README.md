@@ -14,6 +14,14 @@ Same as the main mod.
 
 In order for this mod to fully function, you **must** install and use [Gender Nonbinary Leaders](https://steamcommunity.com/sharedfiles/filedetails/?id=2528614880).
 
+## Known Issues
+
+Because this mod overrides an effect from the main mod, expect to see one line in error.log like this:
+
+```
+[13:55:38][game_singleobjectdatabase.h:147]: Object with key: should_roll_to_reconsider_gender_identity already exists
+```
+
 ## Changelog
 
 * 1.0.0 Initial version
